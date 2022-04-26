@@ -1,0 +1,5 @@
+Oĺa!
+Este é o arquivo "teste.txt".
+Ele será lido pelo Node.JS, através da importação do módulo "file system",
+conforme codificação do arquivo "index.js".
+- - - - -
